@@ -1,7 +1,6 @@
 import React from 'react'
-import styles from './Footer.module.css';
 
-const Footer = () => {
+const FeedModal = () => {
     return (
         <div>
             
@@ -9,4 +8,4 @@ const Footer = () => {
     )
 }
 
-export default Footer
+export default FeedModal
